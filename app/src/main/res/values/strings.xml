@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskGo</string>
+    <string name="emp_name">Ename</string>
+    <string name="emp_id">Eid</string>
+    <string name="emp_salary">Esalary</string>
+    <string name="emp_age">Eage</string>
+</resources>
